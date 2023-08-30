@@ -28,3 +28,4 @@ Tenho interesse em atuar como Desenvolvedor de Software Back-End
 
  📖 Dá instrução ao sábio, e ele se fará mais sábio; ensina o justo e ele aumentará em entendimento. (Provérbios 9:9)
 
+![Top Linguagens ](https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-ds&theme=tokyonight&custom_title=Top%20%Linguagens)
