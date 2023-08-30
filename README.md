@@ -11,6 +11,8 @@ Tenho interesse em atuar como Desenvolvedor de Software Back-End
 
 ## :computer: Para me encontrar:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-santana2023/)
+[![What's app](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+5561983006264)
+<a href="mailto:ramon.net@hotmail.com">📩</a>
 
 
 ## :keyboard: Hard Skills:
@@ -24,5 +26,5 @@ Tenho interesse em atuar como Desenvolvedor de Software Back-End
 ![Excel/VBA](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
-> Dá instrução ao sábio, e ele se fará mais sábio; ensina o justo e ele aumentará em entendimento. (Provérbios 9:9)
+ 📖 Dá instrução ao sábio, e ele se fará mais sábio; ensina o justo e ele aumentará em entendimento. (Provérbios 9:9)
 
