@@ -15,7 +15,7 @@ Experiência com Git Hub;
 Experiência com metodologias ágeis;
 SoftSkills.
 
-Bootcamp 2 - Data Analytics com Power BI - Uma parceria entre: Suzano e DIO
+Bootcamp 2 - Data Analytics com Power BI - DIO
 Foi uma jornada completa para se tornar um analista de dados, dominando ferramentas e técnicas como Power BI, DAX, ETL, modelagem de dados inteligentes e IA. Além de extrair, manipular e contar histórias com esses dados em dashboards elegantes e visuais, com vários desafios de código em Python para se preparar ainda mais para o mercado de trabalho.
 
 Sou um profissional apaixonado por tecnologia e suas aplicações na resolução de problemas, com experiência sólida em Data Analytics, Business Intelligence e Data Science. Com um histórico de atuação em empresas renomadas, como JBS, Grupo Lactalis e Minerva Foods, onde demonstrei habilidades em análise comercial e gestão de equipes, além de um forte domínio de ferramentas como Excel, Power BI, SQL e Python. Estou sempre em busca de aprendizado contínuo, finalizei em Setembro de 2024 um bootcamp em Data Analytics com foco em Power BI e tenho formação em Análise de Sistemas de Computação.
