@@ -1,13 +1,28 @@
 # Olá pessoal! 👨‍💻
-Meu nome é Ramon David e eu sou desenvolvedor back-end e cientista de dados, atualmente estou participando de dois bootscamps buscando aprimorar minhas hard skills e soft skills, um mergulho em Back-End através da [Cubos Academy](https://cubos.academy/), patrocinado pelo Ifood e outro em Ciêcia de Dados pela [DIO](https://www.dio.me/), patrocinado pelo Santander.
+Meu nome é Ramon David e eu sou desenvolvedor back-end e analista de dados, 
 
-Sou um entusiasta em aplicar a tecnologia para resolver todos os tipos de problemas, profissionais e também desafios pessoais. Assim, por meio da tecnologia e suas ferramentas, posso alcançar soluções rápidas e eficientes na minha vida. 
+Atualmente estou participando do terceiro bootcamp na área de tecnologia, dessa vez aprimorando meus conhecimentos na área de Análise de Dados com Power BI patrocinado pela Suzano em parceria com a DIO, buscando fortalecer minhas hard skills e soft skills.
 
-Desde adolescente venho me envolvendo nesse universo, nem sempre de forma mais tradicional, pois a dinâmica da minha vida foi construindo vários caminhos, mas a busca pelo conhecimento nessa área sempre norteou minhas escolhas. Assim, fui construindo um conhecimento que, passo a passo, vem sendo solidificado na minha vida, por meio de cursos técnicos, graduação, especialização e atualmente na escola Cubos Academy e DIO. 
+Outros cursos intensos que eu já realizei:
+
+Bootcamp 1 -  em Back-End através da [Cubos Academy](https://cubos.academy/), patrocinado pelo Ifood 
+O curso tem duração de 5 meses (520 horas) e é composto por aulas de Back-end, lógica de programação e soft skills. 
+Ensinado por professores especialistas, com expertise nos projetos desenvolvidos pela Cubos Tecnologia - que há 9 anos desenvolve soluções altamente tecnológicas para atender as necessidades dos seus clientes.
+Desenvolvimento Back-end (Javascript, Node.js e pacotes npm);
+Desenvolvimento de APIs Rest;
+Experiência com projeção de banco de dados utilizando PostgreSQL e SQL;
+Experiência com Git Hub;
+Experiência com metodologias ágeis;
+SoftSkills.
+
+Bootcamp 2 - Data Analytics com Power BI - Uma parceria entre: Suzano e DIO
+Foi uma jornada completa para se tornar um analista de dados, dominando ferramentas e técnicas como Power BI, DAX, ETL, modelagem de dados inteligentes e IA. Além de extrair, manipular e contar histórias com esses dados em dashboards elegantes e visuais, com vários desafios de código em Python para se preparar ainda mais para o mercado de trabalho.
+
+Sou um profissional apaixonado por tecnologia e suas aplicações na resolução de problemas, com experiência sólida em Data Analytics, Business Intelligence e Data Science. Com um histórico de atuação em empresas renomadas, como JBS, Grupo Lactalis e Minerva Foods, onde demonstrei habilidades em análise comercial e gestão de equipes, além de um forte domínio de ferramentas como Excel, Power BI, SQL e Python. Estou sempre em busca de aprendizado contínuo, finalizei em Setembro de 2024 um bootcamp em Data Analytics com foco em Power BI e tenho formação em Análise de Sistemas de Computação.
 
 Continuo em formação estudando JavaScript, Node.js, SQL, Python, R, Microsoft Azure Machine Learning, banco de dados, powerBI e Excel.
 
-Tenho interesse em atuar como Desenvolvedor de Software Back-End
+Tenho interesse em atuar como Analista de Dados ou Desenvolvedor de Software Back-End
 
 ## :computer: Para me encontrar:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-santana2023/)
